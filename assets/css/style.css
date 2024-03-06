@@ -1,0 +1,51 @@
+h1 {
+    font-style: italic;
+    text-align: center;
+    color: darkorchid;
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+p {
+    
+}
+.mere {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+
+}
+
+.gif {height: 300px;
+    width: 300px;
+    background-image: url(../img/pexels-gerbert-voortman-10740865.jpg);
+    background-size: cover;
+    margin: auto;
+    border-radius: 50%;
+    box-shadow: rgba(0, 0, 0, 0.753) 5px 10px
+    
+}
+.gif1 {height: 300px;
+    width: 300px;
+    background-image: url(../img/pexels-adi-du-13621773.jpg);
+    background-size: cover;margin: auto;
+    border-radius: 50%;
+    box-shadow: rgba(0, 0, 0, 0.753) 5px 10px}
+
+
+    .gif2 {height: 300px;
+    width: 300px;
+    background-image: url(../img/pexels-eric-kamoga-17081188.jpg);
+    background-size: cover;margin: auto;
+    border-radius: 50%;
+    box-shadow: rgba(0, 0, 0, 0.753) 5px 10px}
+
+
+    .gif3 {height: 300px;
+    width: 300px;
+    background-image: url(../img/pexels-jean-van-der-meulen-2078473.jpg);
+    background-size: cover;margin: auto;
+    border-radius: 50%;
+    box-shadow: rgba(0, 0, 0, 0.753) 5px 10px}
+
