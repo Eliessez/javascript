@@ -34,7 +34,21 @@ console.log(animals);
 animals.splice (6,1,'aigle')
 console.log(animals);
 
-// 
+//Sur le tableau animals faire une boucle for pour afficher tous les elements du tableau
+for(let i = 0 , i <animals.length , i++) 
+// console.log(animals[i]);
+
+// Sur le tableau animals faire une boucle for (..of..) pour affiher tous les elements du tableau 
+for(let animal of animals){
+// console.log(animal);
+}
+
+// l afonction foreach 
+animals.forEach (function(animal) {
+    console.log(animal);
+});
+log
+
 
 const city = ['Paris','Berlin','Rome','Moscou','Londres','Madrid']
 
@@ -47,3 +61,4 @@ array.splice(3,1,'Alger');
 
 capital(city);
 console.log(city);  
+
